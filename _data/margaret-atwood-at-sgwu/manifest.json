@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://JoannaBy.github.io/aa-workshop/margaret-atwood-at-sgwu/canvas-1/canvas/s_ma-labels.json",
+            "label": "s_ma-labels"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://JoannaBy.github.io/aa-workshop/margaret-atwood-at-sgwu/canvas-1/canvas/t_ma-labels.json",
             "label": "t_ma-labels"
           }
