@@ -23,6 +23,14 @@
         "id": "https://JoannaBy.github.io/aa-workshop/margaret-atwood-at-sgwu/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3586.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JoannaBy.github.io/aa-workshop/margaret-atwood-at-sgwu/canvas-1/canvas/t_ma-labels.json",
+            "label": "t_ma-labels"
+          }
+        ],
         "items": [
           {
             "id": "https://JoannaBy.github.io/aa-workshop/margaret-atwood-at-sgwu/canvas-1/paintings",
